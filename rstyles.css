@@ -57,11 +57,11 @@ section ul {
 .banner {
     background-color: #00307B;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
 }
 
 .banner h1 {
-    font-size: 36px;
+    font-size: 28px;
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 2px;
