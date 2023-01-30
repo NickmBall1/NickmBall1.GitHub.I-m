@@ -53,3 +53,15 @@ section ul {
   text-decoration: none;
   padding: 20px 40px;
 }
+.banner {
+    background-color: #00307B;
+    text-align: center;
+    padding: 20px;
+}
+
+.banner h1 {
+    font-size: 36px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
