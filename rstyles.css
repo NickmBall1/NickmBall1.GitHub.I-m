@@ -10,13 +10,13 @@ body {
 header h1 {
   font-size: 36px;
   margin-bottom: 0;
-  color: #00307B ;
+  color: black ;
 }
 
 header h2 {
   font-size: 24px;
   margin-top: 0;
-  color: #2867CA ;
+  color: black;
 }
 
 section {
@@ -26,7 +26,7 @@ section {
 section h3 {
   font-size: 18px;
   margin-bottom: 10px;
-  color: #83B4FF;
+  color: black;
   line-height: 1.5;
 }
 
