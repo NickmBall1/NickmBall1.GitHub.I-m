@@ -33,7 +33,7 @@ section h3 {
 section ul {
   list-style-type: circle;
   padding-left: 5;
-  color: white;
+  color: black;
 }
 .description {
 	list-stlye-type: square;
@@ -42,18 +42,19 @@ section ul {
 }
 .education {
 	font-weight:normal;
-	margin: 20px
+	margin: 20px;
+	color: black;
 }
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #00307B;
-  color: #fff;
+  color: black;
 }
 
 .navbar a {
-  color: #fff;
+  color: black;
   text-decoration: none;
   padding: 20px 40px;
 }
